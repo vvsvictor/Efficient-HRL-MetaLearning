@@ -1,0 +1,6 @@
+torch
+gymnasium
+gym-minigrid
+numpy
+tqdm
+codecarbon
