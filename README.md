@@ -2,7 +2,7 @@
 
 This repository provides a reference implementation of **Hierarchical Reinforcement Learning (HRL) with Model-Agnostic Meta-Learning (MAML)**, as described in the thesis:
 
-> **Efficient Adaptation in Reinforcement Learning via Hierarchical Meta-Learning**  
+> **Efficient Hierarchical Reinforcement Learning: Integrating Meta-Learning for Computational Resource Optimization**  
 > [Victor V. S.](https://github.com/vvsvictor)
 
 The code demonstrates how to combine hierarchical policies (FeUdal Networks-style) and meta-learning (MAML) to achieve fast adaptation and sample efficiency in challenging RL environments.
